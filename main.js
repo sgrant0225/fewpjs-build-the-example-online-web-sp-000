@@ -2,7 +2,14 @@
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
+
+// const modalElement = document.getElementById("modal");
+//    modalElement.className = "hidden"; 
+
 // Your JavaScript code goes here!
+document.addEventListener("DOMContentLoaded", () => {
+  
+})
 
 
 
